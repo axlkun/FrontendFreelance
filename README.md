@@ -1,4 +1,4 @@
 # FrontendFreelance
 Frontend de pagina freelance
 
-CSS y HTML5
+Developed with CSS and HTML5
