@@ -1,4 +1,4 @@
 # FrontendFreelance
-Frontend de pagina freelance
+First static web page developed
 
 Developed with CSS and HTML5
